@@ -1,1 +1,7 @@
+
+
 Roy, S., Jain, P.K., Tadepalli, K. et al. Forward attention-based deep network for classification of breast histopathology image. Multimed Tools Appl (2024). https://doi.org/10.1007/s11042-024-18947-w
+
+Title:  Forward attention-based deep network for classifcation of breast histopathology image 
+
+Abstract: Breast cancer diagnosis via histopathology is clinically important but challenges remain. We develop a Forward Attention-based deep network (FA-VGG16) for classifying breast histopathology images. For binary classifcation, FA-VGG16 achieves 90.4% accuracy, outperforming VGG16 (89.3%). Solving class imbalance boosts performance to 97.7% accuracy. For quaternary classifcation of benign subtypes, FA-VGG16 obtains individual accuracy between 77.1 and 88.5% and overall, 77.8%. For malignant subtypes, individual accuracy ranges from 77.2 to 98.3% and overall, 92.4%. Receiver operating characteristic analysis yields areas under the curve values exceeding 95.7% for all benign and malignant subtypes. Paired t-testing of variants indicates FA-VGG16 signifcantly outperforms others (p<0.0001). The attention modules in FA-VGG16 enhance feature extraction, evident from its progressive ablation study performance drop. In summary, FA-VGG16 demonstrates 97.7% accuracy for binary and 92.4% for quaternary classifcation, numerically validating its potential to enhance breast cancer diagnosis through attention mechanisms.
